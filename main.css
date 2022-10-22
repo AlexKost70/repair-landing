@@ -179,7 +179,7 @@ footer .container {
 }
 
 .section-one {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/bg-1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/bg-1.jpg);
     background-size: cover;
     height: 707px;
 }
@@ -371,7 +371,7 @@ footer .container {
 .section-three .video {
     width: 813px;
     height: 434px;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(/img/video.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/video.jpg);
     filter: drop-shadow(0px 20px 50px rgba(0, 0, 0, 0.15));
     display: flex;
     justify-content: center;
@@ -677,7 +677,7 @@ footer .container {
 }
 
 .section-six {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/bg-3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/bg-3.jpg);
     background-size: cover;
     height: 865px;
     margin-bottom: 110px;
@@ -870,7 +870,7 @@ footer .container {
 }
 
 .section-eight {
-    background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%), url(/img/bg-5.jpg);
+    background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%), url(img/bg-5.jpg);
     background-size: cover;
 }
 
